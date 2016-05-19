@@ -1,0 +1,8 @@
+body > ul {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+body > ul > li {
+  display: flex;
+}
